@@ -1,0 +1,7 @@
+relative_path,reason,suggested_action
+01_self_injection_return_model/analysis/collection_scenarios_backup.csv,exact duplicate of 01_self_injection_return_model/analysis/collection_scenarios.csv; Archive/backup hint,Review with the asset owner; do not auto-delete.
+01_self_injection_return_model/deliverables/concept_brief_draft.md,Working-copy hint,Review with the asset owner; do not auto-delete.
+01_self_injection_return_model/research/landscape_notes - Copy.md,exact duplicate of 01_self_injection_return_model/research/landscape_notes.md; Working-copy hint,Review with the asset owner; do not auto-delete.
+05_cross_project/archive/portfolio_map_backup.md,exact duplicate of 05_cross_project/strategy/portfolio_map.md; Archive/backup hint,Review with the asset owner; do not auto-delete.
+05_cross_project/archive/prior_demo_bundle.zip,Archive/backup hint,Review with the asset owner; do not auto-delete.
+05_cross_project/temp/meeting_notes_temp.txt,Working-copy hint,Review with the asset owner; do not auto-delete.

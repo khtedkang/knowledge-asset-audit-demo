@@ -1,0 +1,8 @@
+{
+  "synthetic": true,
+  "checks": [
+    "required_sections",
+    "link_format",
+    "output_manifest"
+  ]
+}

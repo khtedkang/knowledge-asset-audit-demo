@@ -1,0 +1,14 @@
+{
+  "synthetic": true,
+  "mission_id": "DEMO-001",
+  "observations": [
+    {
+      "segment": "A",
+      "coverage": 0.82
+    },
+    {
+      "segment": "B",
+      "coverage": 0.91
+    }
+  ]
+}

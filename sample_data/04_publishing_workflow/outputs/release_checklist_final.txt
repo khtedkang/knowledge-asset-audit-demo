@@ -1,0 +1,4 @@
+SYNTHETIC RELEASE CHECKLIST
+[x] Inputs identified
+[x] Automated checks passed
+[x] Human review recorded
